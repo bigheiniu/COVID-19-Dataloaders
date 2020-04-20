@@ -8,7 +8,7 @@ This dataloader is still under construction for automatically downloading from t
 ## About
 
 ### Goal
-- This tool is easy to use. All the datasets are in [pandas.Dataframe](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html) format which is easy for further data analysis. Researchers can run one python command to automatically load the dataset 
+- This tool is easy to use. All the datasets are in [pandas.Dataframe](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html) format which is easy for further data analysis. Researchers can run one python command to  load the dataset 
 
     
         data = TweetIDCorpus.download(url_or_path)

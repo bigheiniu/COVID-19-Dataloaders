@@ -50,18 +50,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587332776984</updated>
-      <workItem from="1587332782243" duration="11971000" />
+      <workItem from="1587332782243" duration="12248000" />
     </task>
+    <task id="LOCAL-00001" summary="add README.md">
+      <created>1587346060854</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587346060854</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add README.md">
+      <created>1587346224236</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587346224236</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="add README.md" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="1443" y="254" key="CommitChangelistDialog2" timestamp="1587346060594">
+    <state x="1443" y="254" key="CommitChangelistDialog2" timestamp="1587346223983">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="1443" y="254" key="CommitChangelistDialog2/0.0.2560.1440@0.0.2560.1440" timestamp="1587346060594" />
+    <state x="1443" y="254" key="CommitChangelistDialog2/0.0.2560.1440@0.0.2560.1440" timestamp="1587346223983" />
+    <state x="1454" y="397" key="Vcs.Push.Dialog.v2" timestamp="1587346227768">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1454" y="397" key="Vcs.Push.Dialog.v2/0.0.2560.1440@0.0.2560.1440" timestamp="1587346227768" />
     <state x="1444" y="253" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587334612415">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
