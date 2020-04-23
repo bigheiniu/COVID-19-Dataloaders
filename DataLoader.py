@@ -18,5 +18,8 @@ class Data(object):
     # def to_pandas(self, **kwargs):
     #     raise NotImplementedError("Please implement to pandas function")
 
+    def description(self):
+        # Return the description about this dataset
+        raise NotImplementedError
     def column_info(self, **kwargs):
         raise  NotImplementedError

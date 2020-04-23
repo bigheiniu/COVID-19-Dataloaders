@@ -8,7 +8,7 @@ import json
 class LitCovidMeta(Data):
     def __init__(self):
         super(LitCovidMeta, self).__init__()
-        
+
     def __len__(self):
         return len(self.data)
     
@@ -57,7 +57,7 @@ class LitCovidPaper(Data):
         
                     
                 
-        # filter the paper that is not listed in the meta information
+        # TODO: filter the paper that is not listed in the meta information
         
         
     
