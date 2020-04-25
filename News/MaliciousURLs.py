@@ -1,3 +1,5 @@
+import sys
+sys.path.append('../')
 from DataLoader import Data
 import pandas as pd
 import re
