@@ -6,6 +6,9 @@ This dataloader is still under construction for automatically downloading from t
 
 
 ## About
+### TODO:
+1. Automatically Upload file into S3. 
+2. Download function should download the file from S3 instead of local file systems. 
 
 ### Goal
 - This tool is easy to use. All the datasets are in [pandas.Dataframe](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html) format which is easy for further data analysis. Researchers can run one python command to  load the dataset 
